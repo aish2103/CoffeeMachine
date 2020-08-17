@@ -1,0 +1,31 @@
+{
+  "orders" : [
+    {
+      "name": "hot_tea"
+    },
+    {
+      "name": "hot_water"
+    },
+    {
+      "name": "red_tea"
+    },
+    {
+      "name": "green_tea"
+    },
+    {
+      "name": "hot_coffee"
+    },
+    {
+      "name": "green_tea"
+    },
+    {
+      "name": "black_tea"
+    },
+    {
+      "name": "hot_tea"
+    },
+    {
+      "name": ""
+    }
+  ]
+}
